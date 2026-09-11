@@ -19,7 +19,7 @@ Gọi `call_openai` với temperature 0.0, 0.5, 1.0 và 1.5 dùng prompt
 
 ### Câu 1.2 — Chọn temperature cho sản phẩm
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
-> Tôi chọn khoảng 0.2–0.3 để câu trả lời ổn định, chính xác và nhất quán với chính sách hỗ trợ, nhưng vẫn đủ tự nhiên khi giao tiếp. Với các nội dung bắt buộc tuyệt đối chính xác, tôi sẽ hạ về gần 0.0.
+> em chọn khoảng 0.2–0.3 để câu trả lời ổn định, chính xác và nhất quán với chính sách hỗ trợ, nhưng vẫn đủ tự nhiên khi giao tiếp. Với các nội dung bắt buộc tuyệt đối chính xác, tôi sẽ hạ về gần 0.0.
 
 ### Câu 1.3 — Đánh đổi chi phí
 Kịch bản: 10.000 người dùng hoạt động mỗi ngày, mỗi người gọi API 3 lần,
